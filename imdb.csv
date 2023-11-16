@@ -1,0 +1,113 @@
+movie_id,title,director,actors,imdb_rating
+1,12 Angry Men,Sidney Lumet,"Henry Fonda, Lee J. Cobb, Martin Balsam, John Fiedler",9.0
+2,2001: A Space Odyssey,Stanley Kubrick,"Keir Dullea, Gary Lockwood, William Sylvester, Daniel Richter",8.3
+3,81/2,Federico Fellini,"Marcello Mastroianni, Anouk Aimee, Claudia Cardinale, Sandra Milo",8.0
+4,A Separation,Asghar Farhadi,"Payman Maadi, Leila Hatami, Sareh Bayat, Shahab Hosseini",8.3
+5,A Summer?s Tale,Eric Rohmer,"Melvil Poupaud, Amanda Langlet, Gwenaelle Simon",7.6
+6,About Time,Richard Curtis,"Domhnall Gleeson, Rachel McAdams, Bill Nighy, Lydia Wilson",7.8
+7,Aftersun,Charlotte Wells,"Paul Mescal, Frankie Corio, Celia Rowlson-Hall, Sally Messham",7.7
+8,Aloners,Hong Seong-eun,"Jeong Da-eun, Seo Hyun-woo, Park Jeong-hak",6.8
+9,Amadeus,Milos Forman,"F. Murray Abraham, Tom Hulce, Elizabeth Berridge, Roy Dotrice",8.4
+10,An Education,Lone Scherfig,"Carey Mulligan, Peter Sarsgaard, Alfred Molina, Olivia Williams",7.3
+11,Anna Karenina,Joe Wright,"Keira Knightley, Jude Law, Aaron Taylor-Johnson, Matthew Macfadyen",6.6
+12,Another Round,Thomas Vinterberg,"Mads Mikkelsen, Thomas Bo Larsen, Magnus Millang, Lars Ranthe",7.7
+13,"Argentina, 1985",Santiago Mitre,"Ricardo Darin, Gina Mastronicola, Francisco Bertin, Santiago Armas Estevarena",7.6
+14,Asteroid City,Wes Anderson,"Jason Schwartzman, Scarlett Johansson, Tom Hanks, Jeffrey Wright",6.6
+15,Au Revoir les Enfants,Louis Malle,"Gaspard Manesse, Raphael Fejto, Francine Racette, Stanislas Carre de Malberg",8.0
+16,Beau Travail,Claire Denis,"Denis Lavant, Michel Subor, Gregoire Colin, Richard Courcet",7.3
+17,Bergman Island,Mia Hansen-Love,"Vicky Krieps, Tim Roth, Mia Wskowska",6.7
+18,Bottoms,Emma Seligman,"Rachel Sennott, Ayo Edebiri, Ruby Cruz, Havana Rose Liu",7.0
+19,Broker,Hirokazu Koreeda,"Song Kang-ho, Gang Dong-won, Bae Doona, Lee Ji-eun",7.2
+20,C?mon C'mon,Mike Mills,"Joaquin Phoenix, Gaby Hoffmann, Woody Norman, Scoot McNairy",7.4
+21,Carol,Todd Haynes,"Cate Blanchett, Rooney Mara, Sarah Paulson, Kyle Chandler",7.2
+22,Casablanca,Michael Curtiz,"Humphrey Bogart, Ingrid Bergman, Paul Henreid, Claude Rains",8.5
+23,Certified Copy,Abbas Kiarostami,"Juliette Binoche, William Shimell, Jean-Claude Carriere, Agathe Natanson",7.2
+24,Cha Cha Real Smooth,Cooper Raiff,"Cooper Raiff, Dakota Johnson, Evan Assante, Vanessa Burghardt",7.3
+25,Chungking Express,Kar-Wai Wong,"Brigitte Lin, Takeshi Kaneshiro, Tony Leung Chiu-wai, Faye Wong",8.0
+26,Citizen Kane,Orson Welles,"Orson Welles, Joseph Cotten, Dorothy Comingore, Agnes Moorehead",8.3
+27,Cleo from 5 to 7,Agnes Varda,"Corinne Marchand, Antoine Bourseiller, Dominique Davray, Dorothee Blanck",7.9
+28,Closely Watched Trains,Jiri Menzel,"Vaclav Neckar, Josef Somr, Vlastimil Brodsky, Vladimir Valenta",7.6
+29,Coffee and Cigarettes,Jim Jarmusch,"Bill Murray, Tom Waits, Roberto Benigni, RZA",7.0
+30,Comet,Sam Esmail,"Justin Long, Emmy Rossum, Kayla Servi, Eric Winter",6.7
+31,Compartment No. 6,Juho Kuosmanen,"Seidi Haarla, Yuriy Borisov, Dinara Drukarova, Yuliya Aug",7.2
+32,"Crazy, Stupid, Love.","Glenn Ficarra, John Requa","Steve Carell, Ryan Gosling, Julianne Moore, Emma Stone",7.4
+33,Decision to Leave,Park Chan-wook,"Park Hae-il, Tang Wei, Lee Jung-hyun, Go Kyung-Pyo",7.3
+34,Do the Right Thing,Spike Lee,"Danny Aiello, Ossie Davis, Ruby Dee, Richard Edson",8.0
+35,Dog Day Afternoon,Sidney Lumet,"Al Pacino, John Cazale, Penelope Allen, Sully Boyar",8.0
+36,Drive,Nicolas Winding Refn,"Ryan Gosling, Carey Mulligan, Bryan Cranston, Albert Brooks",7.8
+37,Dune,Denis Villeneuve,"Timothee Chalamet, Rebecca Ferguson, Zendaya, Oscar Isaac",8.0
+38,Everything Everywhere All at Once,"Daniel Kwan, Daniel Scheinert","Michelle Yeoh, Stephanie Hsu, Jamie Lee Curtis, Ke Huy Quan",7.8
+39,Fallen Angels,Kar-Wai Wong,"Leon Lai, Michelle Reis, Takeshi Kaneshiro, Charlie Yeung",7.6
+40,Fantastic Mr. Fox,Wes Anderson,"George Clooney, Meryl Streep, Bill Murray, Jason Schwartzman",7.9
+41,Gifted,Marc Webb,"Chris Evans, Mckenna Grace, Lindsay Duncan, Octavia Spencer",7.6
+42,Glass Onion: A Knives Out Mystery,Rian Johnson,"Daniel Craig, Edward Norton, Kate Hudson, Dave Bautista",7.1
+43,Half Nelson,Ryan Fleck,"Ryan Gosling, Anthony Mackie, Shareeka Epps, Jeff Lima",7.1
+44,Harakiri,Masaki Kobayashi,"Tatsuya Nakadai, Akira Ishihama, Shima Iwashita, Tetsuro Tanba",8.6
+45,Hiroshima Mon Amour,Alain Resnais,"Emmanuelle Riva, Eiji Okada, Stella Dassas, Pierre Barbaud",7.9
+46,House of Hummingbird,Bora Kim,"Park Ji-hu, Sae-byeok Kim, In-gi Jeong",7.4
+47,Ida,Pawel Pawlikowski,"Agata Kulesza, Agata Trzebuchowska, Dawid Ogrodnik, Jerzy Trela",7.4
+48,In Bruges,Martin McDonagh,"Colin Farrell, Brendan Gleeson, Ciaran Hinds, Elizabeth Berrington",7.9
+49,In the Mood for Love,Kar-Wai Wong,"Tony Leung Chiu-wai, Maggie Cheung, Siu Ping-Lam, ""Tung Cho Joe Cheung""",8.1
+50,Irrational Man,Woody Allen,"Joaquin Phoenix, Emma Stone, Parker Posey, Joe Stapleton",6.6
+51,"Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",Chantal Akerman,"Delphine Seyrig, Jan Decorte, Henri Storck, Jacques Doniol-Valcroze",7.5
+52,La Haine,Mathieu Kassovitz,"Vincent Cassel, Hubert Kounde, Said Taghmaoui, Abdel Ahmed Ghili",8.1
+53,La La Land,Damien Chazelle,"Ryan Gosling, Emma Stone, Rosemarie DeWitt, J.K. Simmons",8.0
+54,Last Year at Marienbad,Alain Resnais,"Delphine Seyrig, Giorgio Albertazzi, Sacha Pitoeff, Francoise Bertin",7.7
+55,Life Is Beautiful,Roberto Benigni,"Roberto Benigni, Nicoletta Braschi, Giorgio Cantarini, Giustino Durano",8.6
+56,Lola,Jacques Demy,"Anouk Aimee, Marc Michel, Jacques Harden",7.5
+57,Loves of a Blonde,Milos Forman,"Hana Brejchova, Vladimir Pucholt, Vladimir Mensik",7.5
+58,Manchester by the Sea,Kenneth Lonergan,"Casey Affleck, Michelle Williams, Kyle Chandler, Lucas Hedges",7.8
+59,Marcel the Shell with Shoes On,Dean Fleischer Camp,"Jenny Slate, Dean Fleischer Camp, Isabella Rossellini, Joe Gabler",7.7
+60,Memories of Murder,Bong Joon Ho,"Song Kang-ho, Kim Sang-kyung, Roe-ha Kim, Jae-ho Song",8.1
+61,Moonlight,Barry Jenkins,"Mahershala Ali, Naomie Harris, Trevante Rhodes, Alex R. Hibbert",7.4
+62,Mystery Train,Jim Jarmusch,"Masatoshi Nagase, Yuki Kudo, Screamin Jay Hawkins, Cinque Lee",7.5
+63,Navalny,Daniel Roher,"Alexei Navalny, Yulia Navalnaya, Christo Grozev",7.7
+64,Never Let Me Go,Mark Romanek,"Keira Knightley, Carey Mulligan, Andrew Garfield, Izzy Meikle-Small",7.1
+65,Oldboy,Park Chan-wook,"Choi Min-sik, Yoo Ji-tae, Kang Hye-jeong, Kim Byeong-Ok",8.4
+66,On the Beach at Night Alone,Hong Sang-soo,"Kim Min-hee, Young-hwa Seo, Jae-yeong Jeong",6.8
+67,One Fine Morning,Mia Hansen-Love,"Lea Seydoux, Pascal Greggory, Melvil Poupaud",7.0
+68,"Oslo, August 31st",Joachim Trier,"Anders Danielsen Lie, Hans Olav Brenner, Ingrid Olava, Malin Crepin",7.6
+69,"Paris, 13th District",Jacques Audiard,"Lucie Zhang, Makita Samba, Noemi Merlant",7.0
+70,Past Lives,Celine Song,"Greta Lee, Teo Yoo, John Magaro, Moon Seung-ah",8.0
+71,Paterson,Jim Jarmusch,"Adam Driver, Golshifteh Farahani, Nellie, Rizwan Manji",7.3
+72,Pather Panchali,Satyajit Ray,"Kanu Bannerjee, Karuna Bannerjee, Subir Banerjee, Chunibala Devi",8.2
+73,Persona,Ingmar Bergman,"Bibi Andersson, Liv Ullmann, Margaretha Krook, Gunnar Bjornstrand",8.1
+74,Persuasion,Carrie Cracknell,"Richard E. Grant, Henry Golding, Ben Bailey Smith, Yolanda Kettle",5.8
+75,Petite Maman,Celine Sciamma,"Josephine Sanz, Gabrielle Sanz, Nina Meurisse, Stephane Varupenne",7.4
+76,Phantom Thread,Paul Thomas Anderson,"Vicky Krieps, Daniel Day-Lewis, Lesley Manville, Julie Vollono",7.4
+77,Pierrot le Fou,Jean-Luc Godard,"Jean-Paul Belmondo, Anna Karina, Graziella Galvani, Aicha Abadir",7.4
+78,Raging Bull,Martin Scorsese,"Robert De Niro, Cathy Moriarty, Joe Pesci, Frank Vincent",8.1
+79,Reality Bites,Ben Stiller,"Winona Ryder, Ethan Hawke, Janeane Garofalo, Steve Zahn",6.6
+80,Reprise,Joachim Trier,"Anders Danielsen Lie, Espen Klouman Hoiner, Viktoria Winge, Odd-Magnus Williamson",7.3
+81,Return to Seoul,Davy Chou,"Park Ji-min, Oh Kwang-rok, Guka Han",7.0
+82,Rushmore,Wes Anderson,"Jason Schwartzman, Bill Murray, Olivia Williams, Seymour Cassel",7.6
+83,Rye Lane,Raine Allen-Miller,"David Johnson, Vivian Oparah, Poppy Allen-Quarmby",7.2
+84,See How They Run,Tom George,"Kieran Hodgson, Pearl Chanda, Gregory Cox, Harris Dickinson",6.5
+85,Shithouse,Cooper Raiff,"Cooper Raiff, Dylan Gelula, Amy Landecker",6.9
+86,Short Term 12,Destin Daniel Cretton,"Brie Larson, Frantz Turner, John Gallagher Jr., Kaitlyn Dever",7.9
+87,Sick of Myself,Kristoffer Borgli,"Kristine Kujath Thorp, Eirik Saether, Fanny Vagare",7.1
+88,Somewhere,Sofia Coppola,"Stephen Dorff, Elle Fanning, Chris Pontius, Erin Wasson",6.3
+89,Tampopo,Juzo Itami,"Ken Watanabe, Tsutomu Yamazaki, Nobuko Miyamoto, Koji Yakusho",7.9
+90,Taste of Cherry,Abbas Kiarostami,"Homayoun Ershadi, Abdolhosein Bagheri, Afshin Khorshid Bakhtiari, Safar Ali Moradi",7.7
+91,The 400 Blows,Francois Truffaut,"Jean-Pierre Leaud, Albert Remy, Claire Maurier, Guy Decomble",8.1
+92,The Banshees of Inisherin,Martin McDonagh,"Colin Farrell, Brendan Gleeson, Kerry Condon, Pat Shortt",7.7
+93,The Fabelmans,Steven Spielberg,"Michelle Williams, Gabriel LaBelle, Paul Dano, Judd Hirsch",7.5
+94,The Fire Within,Louis Malle,"Maurice Ronet, Lena Skerla, Yvonne Clech, Hubert Deschamps",7.9
+95,The Graduate,Mike Nichols,"Dustin Hoffman, Anne Bancroft, Katharine Ross, William Daniels",8.0
+96,The Green Ray,Eric Rohmer,"Marie Riviere, Maria Luisa Garcia, Vincent Gauthier, Amira Chemakhi",7.6
+97,The Kid Detective,Evan Morgan,"Kaitlyn Chalmers-Rizzato, Adam Brody, Kaleb Horn, Wendy Crewson",7.0
+98,The Man Who Sleeps,Bernard Queysanne,"Jacques Spiesser, Ludmila Mikael",8.0
+99,The Menu,Mark Mylod,"Ralph Fiennes, Anya Taylor-Joy, Nicholas Hoult, Hong Chau",7.2
+100,The Nice Guys,Shane Black,"Russell Crowe, Ryan Gosling, Angourie Rice, Matt Bomer",7.4
+101,The Piano Teacher,Michael Haneke,"Isabelle Huppert, Annie Girardot, Benoit Magimel, Susanne Lothar",7.5
+102,The Quiet Girl,Colm Bairead,"Carrie Crowley, Andrew Bennett, Catherine Clinch, Michael Patric",7.7
+103,The Super Mario Bros. Movie,"Aaron Horvath, Michael Jelenic, Pierre Leduc, Fabien Polack","Chris Pratt, Anya Taylor-Joy, Charlie Day, Jack Black",7.1
+104,The Whale,Darren Aronofsky,"Brendan Fraser, Sadie Sink, Ty Simpkins, Hong Chau",7.7
+105,The Wind Will Carry Us,Abbas Kiarostami,"Behzad Dorani, Noghre Asadi, Roushan Karam Elmi, Bahman Ghobadi",7.4
+106,Three Colors: Blue,Krzysztof Kieslowski,"Juliette Binoche, Zbigniew Zamachowski, Julie Delpy, Benoit Regent",7.9
+107,Three Colors: Red,Krzysztof Kieslowski,"Irene Jacob, Jean-Louis Trintignant, Frederique Feder, Jean-Pierre Lorit",8.1
+108,Waves,Trey Edward Shults,"Taylor Russell, Kelvin Harrison Jr., Alexa Demie, Bill Wise",7.5
+109,Where Is The Friend?s House?,Abbas Kiarostami,"Babek Ahmed Poor, Ahmed Ahmed Poor, Khodabakhsh Defaei, Iran Outari",8.1
+110,Whiplash,Damien Chazelle,"Miles Teller, J.K. Simmons, Melissa Benoist, Paul Reiser",8.5
+111,Y Tu Mama Tambien,Alfonso Cuaron,"Maribel Verdu, Gael Garcia Bernal, Daniel Gimenez Cacho, Ana Lopez Mercado",7.7
+112,You People,Kenya Barris,"Jonah Hill, Lauren London, Eddie Murphy, Julia Louis-Dreyfus",5.5

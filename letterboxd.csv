@@ -1,0 +1,113 @@
+movie_id,Title,letterboxd_rating,views_K,likes_K,Watched_Date
+1,12 Angry Men,4.6,743,287,2023-02-17
+2,2001: A Space Odyssey,4.3,1100,382,2023-07-08
+3,8 1/2,4.3,219,72,2023-03-11
+4,A Separation,4.4,153,47,2023-04-10
+5,A Summer's Tale,4.1,44,16,2023-07-17
+6,About Time,4.0,780,265,2023-03-02
+7,Aftersun,4.2,632,279,2022-12-03
+8,Aloners,3.7,21,7,2023-04-08
+9,Amadeus,4.3,374,116,2023-08-06
+10,An Education,3.5,113,18,2023-02-08
+11,Anna Karenina,3.5,154,32,2023-06-18
+12,Another Round,4.1,453,159,2023-03-01
+13,"Argentina, 1985",3.9,114,42,2023-03-14
+14,Asteroid City,3.6,567,179,2023-07-24
+15,Au Revoir les Enfants,4.2,48,13,2023-10-09
+16,Beau Travail,4.1,84,29,2023-04-25
+17,Bergman Island,3.6,47,13,2023-01-26
+18,Bottoms,4.0,322,155,2023-09-23
+19,Broker,3.8,80,24,2023-01-18
+20,C'mon C'mon,4.1,179,74,2022-09-27
+21,Carol,4.0,461,153,2023-01-22
+22,Casablanca,4.3,595,185,2023-02-24
+23,Certified Copy,4.1,66,21,2023-07-03
+24,Cha Cha Real Smooth,3.8,128,48,2022-07-07
+25,Chungking Express,4.3,445,195,2022-11-19
+26,Citizen Kane,4.2,574,156,2023-10-08
+27,Cleo from 5 to 7,4.2,167,61,2023-05-21
+28,Closely Watched Trains,3.9,20,5,2023-09-24
+29,Coffee and Cigarettes,3.7,84,21,2023-06-17
+30,Comet,3.5,33,9,2023-01-08
+31,Compartment No. 6,3.8,38,11,2022-07-10
+32,"Crazy, Stupid, Love.",3.6,801,193,2023-02-01
+33,Decision to Leave,4.0,274,90,2023-01-06
+34,Do the Right Thing,4.4,368,136,2023-03-01
+35,Dog Day Afternoon,4.3,325,117,2023-08-14
+36,Drive,4.0,1400,477,2023-02-04
+37,Dune,3.9,1700,632,2022-09-26
+38,Everything Everywhere All at Once,4.3,2100,1100,2022-07-16
+39,Fallen Angels,4.2,357,157,2023-10-11
+40,Fantastic Mr. Fox,4.3,1400,600,2023-03-05
+41,Gifted,3.6,204,47,2023-04-02
+42,Glass Onion,3.5,1600,472,2022-12-25
+43,Half Nelson,3.6,69,13,2023-08-03
+44,Harakiri,4.7,112,49,2023-04-02
+45,Hiroshima Mon Amour,4.2,112,36,2022-08-03
+46,House of Hummingbird,4.0,24,9,2023-02-26
+47,Ida,4.0,102,28,2023-05-21
+48,In Bruges,4.1,493,157,2023-03-19
+49,In the Mood for Love,4.4,527,228,2022-08-01
+50,Irrational Man,3.1,72,10,2023-02-03
+51,"Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",4.2,74,27,2023-06-12
+52,La Haine,4.5,432,184,2022-08-12
+53,La La Land,4.0,2300,969,2023-01-22
+54,Last Year at Marienbad,4.1,61,18,2023-10-08
+55,Life Is Beautiful,4.3,476,142,2023-08-05
+56,Lola,3.9,29,9,2023-02-13
+57,Loves of a Blonde,3.8,17,4,2023-06-05
+58,Manchester by the Sea,4.1,588,179,2023-05-28
+59,Marcel the Shell with Shoes On,4.2,229,101,2023-01-06
+60,Memories of Murder,4.4,435,168,2023-02-23
+61,Moonlight,4.2,1200,441,2023-03-30
+62,Mystery Train,4.0,67,22,2023-02-22
+63,Navalny,3.8,38,9,2023-03-15
+64,Never Let Me Go,3.5,157,30,2023-01-26
+65,Oldboy,4.4,808,299,2023-03-03
+66,On the Beach at Night Alone,3.8,39,12,2023-09-10
+67,One Fine Morning,3.6,27,7,2023-02-16
+68,"Oslo, August 31st",4.1,84,27,2023-01-20
+69,"Paris, 13th District",3.6,33,8,2023-02-15
+70,Past Lives,4.3,289,126,2023-08-27
+71,Paterson,3.9,217,68,2022-07-13
+72,Pather Panchali,4.3,56,19,2023-08-09
+73,Persona,4.4,316,117,2023-05-14
+74,Persuasion,2.3,89,9,2022-07-21
+75,Petite Maman,4.1,115,46,2023-02-09
+76,Phantom Thread,4.1,464,154,2023-01-14
+77,Pierrot le Fou,4.0,124,39,2023-01-16
+78,Raging Bull,4.3,413,126,2023-06-04
+79,Reality Bites,3.4,90,20,2022-08-19
+80,Reprise,3.8,37,11,2023-01-24
+81,Return to Seoul,3.7,43,11,2023-06-14
+82,Rushmore,3.9,417,127,2023-05-28
+83,Rye Lane,3.8,88,34,2023-04-05
+84,See How They Run,3.2,229,49,2022-11-20
+85,Shithouse,3.8,53,19,2022-07-12
+86,Short Term 12,4.2,167,56,2023-03-19
+87,Sick of Myself,3.7,57,14,2023-08-30
+88,Somewhere,4.0,71,13,2022-07-30
+89,Tampopo,4.3,95,40,2023-03-27
+90,Taste of Cherry,4.3,118,46,2023-02-08
+91,The 400 Blows,4.3,238,79,2023-09-28
+92,The Banshees of Inisherin,4.1,824,304,2023-01-12
+93,The Fabelmans,4.0,430,159,2022-12-27
+94,The Fire Within,4.1,23,8,2023-07-09
+95,The Graduate,4.1,424,122,2023-03-26
+96,The Green Ray,4.2,55,21,2023-09-22
+97,The Kid Detective,3.7,52,16,2023-09-11
+98,The Man Who Sleeps,4.2,29,12,2023-08-18
+99,The Menu,3.6,1500,478,2023-01-10
+100,The Nice Guys,3.8,841,271,2023-03-07
+101,The Piano Teacher,4.1,179,53,2023-07-21
+102,The Quiet Girl,4.0,56,20,2023-02-13
+103,The Super Mario Bros. Movie,3.3,820,240,2023-05-07
+104,The Whale,3.7,618,177,2023-03-13
+105,The Wind Will Carry Us,4.0,28,8,2023-09-09
+106,Three Colours: Blue,4.2,215,67,2023-04-16
+107,Three Colours: Red,4.3,161,56,2023-09-20
+108,Waves,3.8,161,57,2023-01-28
+109,Where Is the Friend's House?,4.3,80,33,2023-02-18
+110,Whiplash,4.4,2200,1000,2023-03-07
+111,Y Tu Mama Tambien,4.2,231,79,2023-02-19
+112,You People,2.2,137,14,2023-01-30
